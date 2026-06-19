@@ -14,7 +14,6 @@
 
 🚀 **Projects**
 - 🤖 **AI Mock Interview Bot** — Python, Groq API, HTML, CSS, JS
-- 🌸 **Iris Flower Classifier** — Python, KNN, Scikit-learn
 
 🛠️ **Skills**
 - **AI/ML:** Python, Machine Learning, NumPy, Pandas, Scikit-learn
