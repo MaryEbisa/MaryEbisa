@@ -13,7 +13,7 @@
 - Trainee @ NSIC Technical Services Centre
 
 🚀 **Projects**
-- 🤖 **AI Mock Interview Bot** — Python, Groq API, HTML, CSS, JS
+- 🎓 **CareerAI Toolkit** — Groq API, LLaMA 3, HTML, CSS, JS | 5-in-1 AI career tool for students
 
 🛠️ **Skills**
 - **AI/ML:** Python, Machine Learning, NumPy, Pandas, Scikit-learn
